@@ -15,4 +15,4 @@ COPY . /app
 
 ENTRYPOINT [ "python" ]
 
-CMD [ "server.py" ]
+CMD [ "server/app_factory.py" ]

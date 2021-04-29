@@ -1,0 +1,3 @@
+graft server/static
+graft server/templates
+graft tests
