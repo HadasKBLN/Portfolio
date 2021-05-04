@@ -1,1 +1,3 @@
-server/MultistageDockerfile
+MultistageDockerfile
+*.tfstate
+.terraform*
